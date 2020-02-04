@@ -437,8 +437,7 @@ header {
   @media (min-width: 992px) {
     .step {
       margin: 0 8pt;
-      border-top: none;
-      width: auto; } }
+      border-top: none; } }
 
 .step__media {
   margin: 16pt 0; }
@@ -723,6 +722,8 @@ header {
 .social-list__link {
     padding: .5em;
 }
+
+
 
 .cta {
   background: #f6f8fa; 
